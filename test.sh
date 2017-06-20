@@ -1,1 +1,2 @@
-#echo "testing"
+#!/bin/bash
+echo "testing"
